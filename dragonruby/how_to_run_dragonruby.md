@@ -1,5 +1,10 @@
 # How To Run DragonRuby
 
+## General Structure
+
+- `dragonruby <mygame>/app/main.rb` is the main starting point.
+- Can put general files in the top of <mygame>. 
+
 ## Windows
 
 Add to the profile this alias: 
