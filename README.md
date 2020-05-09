@@ -6,3 +6,5 @@ A TIL repo to unclutter my mind.
 I tend to forget how to install things on multiple workstations, or Google to see the latest tutorial site to cover WITH in SQL. This will hopefully keep it in one place for myself and maybe help others with this glorified cheatsheet.
 
 Feel free to fork, add additions, or correct my spelling.
+
+https://github.com/dannypage/cache/
