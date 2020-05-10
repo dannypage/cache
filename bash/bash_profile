@@ -1,0 +1,18 @@
+# Generic tips I've picked up for bash_profile goodness. Might work in other shells too.
+
+# Manage Python better 
+
+function mkvirtualenv() {
+  virtualenv -p $(which python3.6) venv
+  source venv/bin/activate
+}
+
+function pysrc() {
+  source venv/bin/activate
+}
+
+export PIP_REQUIRE_VIRTUALENV=true
+
+gpip() {
+    PIP_REQUIRE_VIRTUALENV="" pip "$@"
+}
