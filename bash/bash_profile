@@ -1,6 +1,7 @@
 # Generic tips I've picked up for bash_profile goodness. Might work in other shells too.
 
 # Manage Python better 
+# Via https://koaning.io/posts/little-victories-scale/
 
 function mkvirtualenv() {
   virtualenv -p $(which python3.6) venv
