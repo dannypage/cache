@@ -8,3 +8,7 @@ I tend to forget how to install things on multiple workstations, or Google to se
 Feel free to fork, add additions, or correct my spelling.
 
 [Github Link](https://github.com/dannypage/cache/)
+
+--
+
+I may see if I can get some of these into [SnippetsLab](https://www.renfei.org/snippets-lab/), or develop a similar offline app. Then again, this doesn't have to be for just code! 
