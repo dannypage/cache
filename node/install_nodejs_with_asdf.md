@@ -15,7 +15,7 @@ Add the following to Bash:
 . $HOME/.asdf/completions/asdf.bash
 ```
 
-## Install NPM via ASDF
+## Install NodeJS via ASDF
 
 ```
 $ asdf plugin-add nodejs https://github.com/asdf-vm/asdf-nodejs.git
@@ -25,3 +25,15 @@ $ asdf list nodejs
   >> 14.3.0
 $ asdf global nodejs 14.3.0
 ```
+
+Make sure NPM works:
+
+```
+$ npm
+>> /usr/bin/npm: No such file or directory
+$ source ~/.bash_profile
+$ npm
+>> <works>
+```
+
+Probably needed to refresh the entire PATH.
