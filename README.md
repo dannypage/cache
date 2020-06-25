@@ -12,3 +12,5 @@ Feel free to fork, add additions, or correct my spelling.
 --
 
 I may see if I can get some of these into [SnippetsLab](https://www.renfei.org/snippets-lab/), or develop a similar offline app. Then again, this doesn't have to be for just code! 
+
+TODO: Incorporate [TIL-RB](https://github.com/pjambet/til-rb/) to help generate it.
