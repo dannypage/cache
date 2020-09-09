@@ -12,3 +12,8 @@ git commit -m "Adding CSV files to LFS"
 git lfs push --all origin master
 git push -u origin master
 ```
+
+### Sources
+General advice: https://towardsdatascience.com/uploading-large-files-to-github-dbef518fa1a
+
+When I messed up and Github got angry about a commit: https://stackoverflow.com/a/54846502
