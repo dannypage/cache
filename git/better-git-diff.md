@@ -1,4 +1,4 @@
-# Git Diff
+# Better Git Diff
 
 > Thankfully, it’s not only possible to configure a custom regex specific to your language to help Git better orient itself, there’s even a pre-defined set of patterns for many languages and formats right there in Git. All we have to do is tell Git which patterns to use for our file extensions.
 
