@@ -7,11 +7,12 @@
 
 ```
 $ sudo apt-get update && sudo apt-get upgrade
-$ sudo apt-get install -y libssl-dev
-$ sudo apt-get install -y zlib1g-dev
-$ git clone https://github.com/asdf-vm/asdf.git ~/.asdf --branch v0.7.8
+$ sudo apt-get install -y libssl-dev  // Hmm
+$ sudo apt-get install -y zlib1g-dev  // Hmm
+$ sudo apt-get install build-essential
+$ git clone https://github.com/asdf-vm/asdf.git ~/.asdf --branch v0.8.0
 $ cd ~/.asdf && git checkout master
-$ vim ~/.bash_profile
+$ vim ~/.bashrc
 ```
 
 Add the following to Bash:
@@ -27,7 +28,7 @@ Add the following to Bash:
 $ source ~/.bashrc
 $ asdf plugin-add ruby https://github.com/asdf-vm/asdf-ruby.git
 $ asdf install ruby latest
-$ asdf global ruby 2.7.1
+$ asdf global ruby 3.0.0
 ```
 
 If you need a local Ruby to a set of folders:
