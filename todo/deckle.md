@@ -14,3 +14,11 @@ before:
 - ...people follow/subscribe? 
 - pay money? 
 - find out something interesting you didn't know before?
+
+user control of feeds or queues:
+
+- Create and share a playlist
+- Sort liked songs by genre
+- Create smart playlists with filters
+- See my play history
+- See all of my subscribed new releases in one place
