@@ -1,4 +1,5 @@
 https://web.minidisc.wiki/
+How to: https://www.minidisc.wiki/guides/webminidisc
 
 Reports as 75 Minutes, but I think it was actually 74. Writing a long track can and will fail if it doesn't fit. Bad when it's over 70 minutes. 
 
@@ -11,3 +12,6 @@ LP2 seems mostly fine, especially on this older track. A bit of static in the qu
 All and all, good learnings, and pretty easy if you have well documented songs. Surprised it works as well as it did, given a bit of rust on the disc itself. Might also consider rechargable batteries.
 
 https://archive.org/details/DjPi-TranceEmpireVolume12polarFields
+
+https://www.youtube.com/watch?v=qP3yYo1Mo14 
+https://en.wikipedia.org/wiki/Anjunabeats
