@@ -4,6 +4,8 @@
 
 Easy UI for server management. 
 
+Scratch that, the Nginx setup with HTTPS was a pain, look at Webmin.
+
 ## How
 
 In Ubuntu: 
