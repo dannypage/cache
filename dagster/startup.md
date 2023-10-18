@@ -3,6 +3,7 @@
 Background Process settings:
 
 `$ nohup dagster-webserver -h 0.0.0.0 -p 4444 -l /dagster &`
+
 `$ $DAGSTER_HOME=<Project Folder> dagster-daemon run &`
 
 NGINX settings:
